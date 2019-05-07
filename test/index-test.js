@@ -12,4 +12,3 @@ it('interpolates a string in `conversation`', function() {
   expect(conversation).toEqual(`Let's talk about ${topic}.`)
 })
 
-Hello, everybody!
